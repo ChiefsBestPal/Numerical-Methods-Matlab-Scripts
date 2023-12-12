@@ -1,0 +1,47 @@
+# Created by Octave 7.3.0, Sun Mar 19 04:51:05 2023 GMT <unknown@AntonMachine>
+# name: A
+# type: matrix
+# rows: 3
+# columns: 3
+ 3 4 -2
+ -6 0 1
+ -7 -3 2
+
+
+# name: ans
+# type: scalar
+-15.100000000000001
+
+
+# name: b
+# type: matrix
+# rows: 3
+# columns: 1
+ 29
+ -10
+ -32
+
+
+# name: xi
+# type: matrix
+# rows: 1
+# columns: 3
+ 1 2 4
+
+
+# name: xr
+# type: matrix
+# rows: 3
+# columns: 1
+ 5.5
+ -3.8999999999999999
+ 2.2999999999999998
+
+
+# name: yi
+# type: matrix
+# rows: 1
+# columns: 3
+ 7.7000000000000002 -0.20000000000000001 -37
+
+
